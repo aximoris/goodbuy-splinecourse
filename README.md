@@ -1,0 +1,2 @@
+# goodbuy-splinecourse
+landing page
